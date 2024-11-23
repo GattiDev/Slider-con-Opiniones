@@ -1,0 +1,3 @@
+# Slider-con-Opiniones
+
+Este proyecto fue realizado para poder ver las opiniones que los usuasrios dejaron en la plataforma. El proyecto se realizó con HTML, CSS y JavaScript. El proyecto consta de dos  páginas: la página principal y la página de detalles.   La página principal tiene un slider con las opiniones de los usuarios, y la página de detalles tiene la opinión completa y los datos del usuario que la dejó.
